@@ -1,0 +1,37 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Converter {
+
+        /**
+         * It returns a double value or 0 if an exception occurred
+         */
+        public static double convertStringToDouble(String input) {
+            return Double.parseDouble(input);
+        }
+    }
+  learner_created: false
+- name: src/dataset_91022.txt
+  visible: true
+  learner_created: true
+- name: src/dataset_91033.txt
+  visible: true
+  learner_created: true
+- name: src/dataset_91069.txt
+  visible: true
+  learner_created: true
+- name: src/dataset_91065.txt
+  visible: true
+  learner_created: true
+- name: src/dataset_91007.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2478
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2478">JetBrains
+    Academy</a></html>
+  time: Mon, 24 Aug 2020 21:20:51 UTC
+record: -1
